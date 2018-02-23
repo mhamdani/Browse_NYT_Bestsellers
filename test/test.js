@@ -10,7 +10,7 @@ describe('Load a Page', function() {
   })
 
   describe('/ (NYT browser homepage)', () => {
-    it('should load without error', done => {
+    it('loads without error', done => {
       nightmare.goto('https://mhamdani.github.io/Browse_NYT_Bestsellers/')
         .end()
         .then(function (result) { done() })
