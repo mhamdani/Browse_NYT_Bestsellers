@@ -75,11 +75,15 @@
   .card, .main {
     width: 100%;
   }
+  .card {
+    height: 190px;
+  }
   .container {
-    padding-top: 45%;
+    padding-top: 50%;
   }
   #footer {
-    width: 50%;
+    width: 60%;
+    height: 150px;
     margin-left: 10%;
   }
 }
