@@ -1,5 +1,5 @@
 # Simple UI to browse NYT bestellers
-Using HTML, CSS, and JavaScript to create a simple, browsable UI of the NY Times Bestsellers
+Using just HTML, CSS, and JavaScript to create a simple, browsable UI of the NY Times Bestsellers
 
 ### To use this app
 Sign up for an [NYT API key](http://developer.nytimes.com/signup) and place your key in the 'fetch' function of the app.js file. Be sure to request the Books API from the list of choices provided by the New York Times.
@@ -24,7 +24,7 @@ Once you have installed the dependencies, you can test this setup by running ```
 # Bootstrap
 Utilized the sleek and intuitive front-end framework for faster and easier web development.
 
-#NYT API
+# NYT API
 Utilized the NYT Books RESTful API to retrieve information about the New York Times Best Sellers Lists.
 
 To use the Books API, you must sign up for an [Books API key](http://developer.nytimes.com/signup). Usage is limited to 1,000 requests per day (rate limits are subject to change). Please read and agree to the API Terms of Use and the Attribution Guidelines before you proceed.
