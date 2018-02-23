@@ -42,12 +42,13 @@
 }
 
 #footer {
-  background-color: lightgrey;
+  background-color: white;
   border-radius: 15px 50px 30px;
   padding-bottom: 10px;
   color: slategrey !important;
   width: 20%;
   margin-left: 60%;
+  opacity: 0.9;
 }
 
 @media only screen and (max-width:800px) {
