@@ -1,6 +1,6 @@
 fetch('https://api.nytimes.com/svc/books/v3/lists.json?list-name=hardcover-fiction&api-key=' +
-// Place your API key here to fun the application
-'2a6ff788cc214c088bc32b87e3894107', {
+// Place your API key below to fun the application.
+'[your API key]', {
     method: 'get',
   })
   .then(response => { return response.json(); })
